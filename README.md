@@ -13,8 +13,8 @@ Connection of SAP ERP With SAP Conversational AI with the use of NodeJS
 #Code
 1) app.js runs the server
 2) All the routes have different functionalities -
-   get_data_routes - Get Order Data From SAP Systems
-   Delivery_data_routes - Get Delivery Dates corresponding to above Orders
-   get_Price_routes - Get Price for above orders from SAP Systems
-   get_Sales_order_routes - Get Sales Order Data from SAP Systems
+   - get_data_routes - Get Order Data From SAP Systems
+   - Delivery_data_routes - Get Delivery Dates corresponding to above Orders
+   - get_Price_routes - Get Price for above orders from SAP Systems
+   - get_Sales_order_routes - Get Sales Order Data from SAP Systems
 
